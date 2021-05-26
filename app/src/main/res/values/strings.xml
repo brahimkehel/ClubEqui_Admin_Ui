@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Controle_v1</string>
+
+    <string name="navigation_drawer_open">open navigation drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+
+    <string-array name="searchBy_list">
+        <item>Date</item>
+        <item>Tâche</item>
+        <item>Salarié</item>
+    </string-array>
+</resources>

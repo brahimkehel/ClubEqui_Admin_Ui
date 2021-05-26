@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="t1" type="id" />
+    <item name="btn" type="id" />
+    <item name="card_view" type="id" />
+    <item name="today_imageView" type="id" />
+    <item name="completes_label" type="id" />
+    <item name="ajouterTache" type="id" />
+    <item name="completes_progressBar" type="id" />
+    <item name="incompletes_label" type="id" />
+    <item name="incompletes_progressBar" type="id" />
+</resources>
